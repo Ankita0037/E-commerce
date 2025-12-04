@@ -530,11 +530,3 @@ Content-Type: application/json
 - GitHub: [@Ankita0037](https://github.com/Ankita0037)
 
 ---
-
-## 📄 License
-
-This project is licensed under the ISC License.
-
----
-
-<p align="center">Made with ❤️ using NestJS</p>
